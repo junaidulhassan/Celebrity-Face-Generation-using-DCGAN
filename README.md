@@ -19,7 +19,7 @@ For further exploration on implementing DCGANs with PyTorch, check out the follo
 <https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html>
 
 ## About Dataset
-To get started, grab your own copy of our curated dataset by visiting the link below:
+To get started, grab your copy of our curated dataset by visiting the link below:
 Celebrity Faces Dataset
 <https://www.kaggle.com/datasets/vishesh1412/celebrity-face-image-dataset>
 
