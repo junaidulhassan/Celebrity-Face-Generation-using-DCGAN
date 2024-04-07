@@ -15,7 +15,7 @@ This exciting endeavor combines deep learning techniques with image processing a
 ## Understanding Generative Adversarial Networks (GANs)
 At the heart of our project lies GAN technology. A GAN consists of two networks—a generator and a discriminator. Our goal is for the generator network to transform random noise into convincing photographs indistinguishable from those found within the original dataset. To achieve this outcome, both networks engage in an adversarial process where each competes against the other during training. This competition ultimately leads to highly sophisticated generated images.
 
-For further exploration on implementing DCGANs with PyTorch, check out the following resource: 
+For further exploration on implementing DCGANs with PyTorch, check out the following resource
 <https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html>
 
 ## About Dataset
