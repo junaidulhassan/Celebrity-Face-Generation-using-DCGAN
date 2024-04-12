@@ -8,7 +8,7 @@ This exciting endeavor combines deep learning techniques with image processing a
 * Python
 * Jupyter Notebook
 * PyTorch
-* scikit-learn
+* sci-kit-learn
 * seaborn
 * matplotlib
 
