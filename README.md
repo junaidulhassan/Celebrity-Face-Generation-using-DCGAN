@@ -1,6 +1,6 @@
 # Celeberity Face Image Generation using DCGAN
 
-Welcome to our project! 🤗🚀 In this repository, we will guide you through creating fake celebrity faces using Deep Convolutional Generative Adversarial Network (DCGAN) with PyTorch. Using a large collection of images featuring famous individuals, our system will learn how to create new, realistic-looking "celebrity" portraits.
+Welcome to our project! 🤗🚀 In this repository, we will guide you through creating fake celebrity faces using a Deep Convolutional Generative Adversarial Network (DCGAN) with PyTorch. Using a large collection of images featuring famous individuals, our system will learn how to create new, realistic-looking "celebrity" portraits.
 
 This exciting endeavor combines deep learning techniques with image processing and data visualization tools. Here are some highlights:
 
